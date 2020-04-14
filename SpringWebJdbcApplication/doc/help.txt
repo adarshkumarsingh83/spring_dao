@@ -1,0 +1,11 @@
+To access the main page, enter the following URL:
+http://localhost:8080/SpringWebJdbcApplication/adarsh/main/persons
+
+To add a new user, enter the following URL:
+http://localhost:8080/SpringWebJdbcApplication/adarsh/main/persons/add?firstname=adarsh&lastname=kumar&money=1000
+
+To delete a user, enter the following URL:
+http://localhost:8080/SpringWebJdbcApplication/adarsh/main/persons/delete?id=1
+
+To edit a user, enter the following URL:
+http://localhost:8080/SpringWebJdbcApplication/adarsh/main/persons/edit?id=1&firstname=adarsh&lastname=kumar_singh&money=2000
